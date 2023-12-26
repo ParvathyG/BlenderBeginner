@@ -1,5 +1,7 @@
 # BlenderBeginner
 
+![alt text](https://github.com/ParvathyG/BlenderBeginner/blob/master/Sofa.png?raw=true)
+![alt text](https://github.com/ParvathyG/BlenderBeginner/blob/master/chain.png?raw=true)
 ![alt text](https://github.com/ParvathyG/BlenderBeginner/blob/master/robot.png?raw=true)
 ![alt text](https://github.com/ParvathyG/BlenderBeginner/blob/master/Headphone.png?raw=true)
 ![alt text](https://github.com/ParvathyG/BlenderBeginner/blob/master/Shampoo.png?raw=true)
